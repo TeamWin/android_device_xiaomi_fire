@@ -26,7 +26,7 @@ It was announced and released in June 2023.
 | Fingerprint                    | (side-mounted)                                                    |
 | Sensors                        | accelerometer, compass                                            |
 
-$~$
+
 
 ## Working features so far
 
@@ -58,14 +58,14 @@ $~$
 - [X] battery level
 - [X] temperature
 - [ ] ~~encrypted backups~~ (no option)
-- [X] input devices via USB (USB-OTG) - keyboard (not tested), mouse (works) and disks (works)
+- [X] input devices via USB (USB-OTG) - keyboard (works), mouse (works) and disks (works)
 - [ ] ~~USB mass storage export~~ (unavailable)
 - [X] set brightness
 - [X] vibrate
 - [X] screenshot
 - [X] partition SD card
 
-$~$
+
 
 ## How to build
 
@@ -86,7 +86,7 @@ lunch twrp_fire-eng
 mka bootimage
 ```
 
-$~$
+
 
 ## Device picture
 
